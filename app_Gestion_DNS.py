@@ -1,4 +1,4 @@
-from guizero import App,Text,TextBox, PushButton, Picture
+from guizero import App, Text, TextBox, PushButton, Picture
 import webbrowser
 
 
